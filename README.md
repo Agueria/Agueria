@@ -6,7 +6,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<li>📫 You can reach out to me via <a href="https://discord.com/users/822161458217484309" target"blank_">Discord</a> adresimi kullanabilirsin 🤹</li>
+<li>📫 You can reach out to me via <a href="https://discord.com/users/822161458217484309" target"blank_">Discord</a>🤹</li>
 <p align="left">
 </p>
 
