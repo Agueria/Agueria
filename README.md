@@ -2,7 +2,7 @@
 
 - 👨‍💻 I’m currently working on React.js
 
-- 💻 I’m currently learning **GraphQL*
+- 💻 I’m currently learning **GraphQL**
 
 
 <h3 align="left">Connect with me:</h3>
