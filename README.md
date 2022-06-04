@@ -1,8 +1,8 @@
 <h3 align="center">Computer Science Student</h3>
 
-- 👨‍💻 I’m currently working on Machine Learning
+- 👨‍💻 I’m currently working on React.js
 
-- 💻 I’m currently learning **Deep Learning**
+- 💻 I’m currently learning **GraphQL*
 
 
 <h3 align="left">Connect with me:</h3>
